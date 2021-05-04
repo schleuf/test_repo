@@ -1,0 +1,5 @@
+# This is a file that tells git to ignore certain files and filetypes: https://git-scm.com/docs/gitignore
+# Specific files and folders
+canttouchthis.m
+# File types
+*.png
